@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3817cb2f-6c3f-4a60-b7e6-c15d2b267a94" name="Changes" comment="video">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8af2ef585a6df6c680ac$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8af2ef585a6df6c680ac.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$8af2ef585a6df6c680ac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$099b7d5565b270757b31$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$099b7d5565b270757b31.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$099b7d5565b270757b31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$598421170a45b57c55e1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$598421170a45b57c55e1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$598421170a45b57c55e1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6daf0cd401989f96ba1f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6daf0cd401989f96ba1f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6daf0cd401989f96ba1f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$77dfc03d0b32c5eeb818$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$77dfc03d0b32c5eeb818.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$77dfc03d0b32c5eeb818.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9812e116c5196a4ae619$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9812e116c5196a4ae619.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9812e116c5196a4ae619.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9a3a7c988102842b2188$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9a3a7c988102842b2188.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9a3a7c988102842b2188.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e86403982440e7c69849$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e86403982440e7c69849.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e86403982440e7c69849.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece274644992c33844d1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece274644992c33844d1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ece274644992c33844d1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f290e51a757ec362a062$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f290e51a757ec362a062.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f290e51a757ec362a062.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Input/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/embeddings/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/vocabulary/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/Input/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/SlidingWindow$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/SlidingWindow$Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/SlidingWindow$Reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/SlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/SlidingWindow.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/TokenCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/TokenCount$Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/TokenCount$Reduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/TokenCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/TokenCount.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/Training$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/Training.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/Training.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/classes/main$package.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/classes/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/main.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/classes/main.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/SlidingWindowData/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/SlidingWindowData/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/SlidingWindowData/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/SlidingWindowData/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/TokenCountData/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/TokenCountData/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/TokenCountData/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/output/TokenCountData/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runSlidingWindowMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runSlidingWindowMapReduce.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runTokenCountMapReduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runTokenCountMapReduce.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runTraining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/classes/runTraining.tasty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/update/update_cache_3/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/update/update_cache_3/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.5.0/update/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.5.0/update/update_cache_3/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_3/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/ssExtractDependencies/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_3/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Homework1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;chrisszeliga&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;chrisszeliga&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chrisszeliga/CS441-Homework1&quot;,
+    &quot;accountId&quot;: &quot;609b4930-ead4-4624-b174-3978d32eacfd&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mPHfjFcndmPy4txKRS8FZzKhjT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EmbeddingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmbeddingMapReduce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapReduceRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlidingWindowMapReduce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TokenCountMapReduce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Training.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrainingTestTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.runTraining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shardMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sharderMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ScalaTest.tests.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should Correctly gets data.txt total number of lines.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should average embedding correctly.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should create the correct number of shards (203).executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should create the correct number of shards (5).executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should create the correct number of shards.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should should handle empty file.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should split a sentence correctly.executor&quot;: &quot;Run&quot;,
+    &quot;ScalaTest.tests.should split sentences correctly.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/School/UIC Semester 5/CS 441/Homework1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\School\UIC Semester 5\CS 441\Homework1\src\test\scala" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\School\UIC Semester 5\CS 441\Homework1\src\test\scala" />
+      <recent name="D:\School\UIC Semester 5\CS 441\Homework1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.tests.should Correctly gets data.txt total number of lines">
+    <configuration name="EmbeddingMapReduce" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="runEmbeddingMapReduce" />
+      <module name="Homework1" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/input/shards src/main/resources/output/embeddings" />
+      <shortenClasspath name="ARGS_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocabularyMapReduce" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="runVocabularyMapReduce" />
+      <module name="Homework1" />
+      <option name="PROGRAM_PARAMETERS" value="src/main/resources/input/shards src/main/resources/output/vocabulary" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Homework1" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="testClassPath" value="tests" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.should Correctly gets data.txt total number of lines" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Homework1" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="testClassPath" value="tests" />
+      <option name="testName" value="should Correctly gets data.txt total number of lines" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.should average embedding correctly" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Homework1" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="testClassPath" value="tests" />
+      <option name="testName" value="should average embedding correctly" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.should create the correct number of shards (203)" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Homework1" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="testClassPath" value="tests" />
+      <option name="testName" value="should create the correct number of shards (203)" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests.should split sentences correctly" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Homework1" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <option name="shortenClasspath" value="ARGS_FILE" />
+      <option name="testClassPath" value="tests" />
+      <option name="testName" value="should split sentences correctly" />
+      <option name="workingDirectory" value="D:\School\UIC Semester 5\CS 441\Homework1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EmbeddingMapReduce" />
+      <item itemvalue="Application.VocabularyMapReduce" />
+      <item itemvalue="ScalaTest.tests.should create the correct number of shards (203)" />
+      <item itemvalue="ScalaTest.tests" />
+      <item itemvalue="ScalaTest.tests.should Correctly gets data.txt total number of lines" />
+      <item itemvalue="ScalaTest.tests.should average embedding correctly" />
+      <item itemvalue="ScalaTest.tests.should split sentences correctly" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.tests.should Correctly gets data.txt total number of lines" />
+        <item itemvalue="ScalaTest.tests" />
+        <item itemvalue="ScalaTest.tests.should create the correct number of shards (203)" />
+        <item itemvalue="ScalaTest.tests.should average embedding correctly" />
+        <item itemvalue="ScalaTest.tests.should split sentences correctly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+    <option name="scala3DisclaimerShown" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3817cb2f-6c3f-4a60-b7e6-c15d2b267a94" name="Changes" comment="" />
+      <created>1726971397087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726971397087</updated>
+      <workItem from="1726971398100" duration="2450000" />
+      <workItem from="1726973889298" duration="8203000" />
+      <workItem from="1727028412042" duration="29062000" />
+      <workItem from="1727067689774" duration="5973000" />
+      <workItem from="1727114531775" duration="14208000" />
+      <workItem from="1727129985810" duration="18309000" />
+      <workItem from="1727153906817" duration="4345000" />
+      <workItem from="1727549948553" duration="162000" />
+      <workItem from="1727907153374" duration="29542000" />
+      <workItem from="1728010162051" duration="3268000" />
+      <workItem from="1728020002218" duration="4478000" />
+      <workItem from="1728065650811" duration="12245000" />
+      <workItem from="1728081345918" duration="2259000" />
+      <workItem from="1728083638109" duration="27950000" />
+      <workItem from="1728139734582" duration="32849000" />
+      <workItem from="1728184734762" duration="573000" />
+      <workItem from="1728197398325" duration="604000" />
+      <workItem from="1728198280403" duration="26000" />
+      <workItem from="1730343636964" duration="2949000" />
+      <workItem from="1730685325693" duration="2584000" />
+    </task>
+    <task id="LOCAL-00001" summary="local">
+      <option name="closed" value="true" />
+      <created>1728153845131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728153845131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1728168369858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728168369858</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1728173045100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728173045100</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1728176401089</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728176401089</updated>
+    </task>
+    <task id="LOCAL-00005" summary="video">
+      <option name="closed" value="true" />
+      <created>1728183576301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728183576301</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="local" />
+    <MESSAGE value="update" />
+    <MESSAGE value="video" />
+    <option name="LAST_COMMIT_MESSAGE" value="video" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
