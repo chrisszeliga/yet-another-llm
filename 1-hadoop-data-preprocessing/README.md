@@ -1,33 +1,4 @@
-# CS 441 - Homework1
-
-**Chris Szeliga -
-cszel3@uic.edu**
-
-## Amazon EMR Demo
-
-https://youtu.be/TTIE4JKP8po
-
-## Running the Program
-
-### Compile the code:
-```
-sbt compile
-```
-
-### Run the program:
-```
-sbt run
-```
-
-### Create Fat Jar:
-```
-sbt assembly
-```
-
-### Run tests:
-```
-sbt test
-```
+# Hadoop Data Preprocessing
 
 ## Overview
 
