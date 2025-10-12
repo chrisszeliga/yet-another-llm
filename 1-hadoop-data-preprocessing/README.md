@@ -27,7 +27,7 @@ Each shard is stored as a separate ```.txt``` file in the ```input/shards``` dir
 
 * **FileSharder.scala:**
   This scala file handles the reading of the input file and the creation of the shards.
-```
+```scala
 val lines = file.getLines()
 // Iterate for total number of lines, calculating which shard the line belongs in
 for (i <- 1 to totalLines) {
@@ -45,7 +45,7 @@ The resulting parts of the job are outputted to ```output/vocabulary```.
 
 * **Tokenization:** 
   The mapper reads lines from the shard, tokenizes the words, punctuation, and symbols, and emits each token with a count of 1.
-``` 
+```scala
 line.split("(?<=[,.:;?!--_\"'()“”‘’—])\\s*|(?=[,.:;?!--_\"'()“”‘’—])|\\s+")
         .filter(_.nonEmpty)     // Can be empty string because of Lookbehind and Lookahead overlap
         .foreach { token =>
@@ -58,7 +58,7 @@ line.split("(?<=[,.:;?!--_\"'()“”‘’—])\\s*|(?=[,.:;?!--_\"'()“”‘
 
 * **Frequency Calculation:**
   The reducer aggregates the counts emitted by the mapper, resulting in a total frequency for each unique token.
-```
+```scala
 val sum = values.asScala.reduce((valueOne, valueTwo) => new IntWritable(valueOne.get() + valueTwo.get()))
 output.collect(key, new IntWritable(sum.get()))
 ``` 
@@ -72,7 +72,7 @@ The resulting parts of the job are outputted to ```output/embeddings```.
 
 * **Tokenization and Embedding:**
   The mapper tokenizes the text again and retrieves the token embeddings for each token.
-```
+```scala
 // Go through each vocab and get the token and its embedding
 vocab.forEach { token =>
   val embedding = word2Vec.getWordVector(token.getWord)
@@ -84,7 +84,7 @@ vocab.forEach { token =>
 
 * **Averaging Embeddings:**
   The reducer takes the embeddings from the mapper and averages them to create a single representation for each token.
-```
+```scala
 val avgEmbedding = values.asScala.reduce { (valueOne, valueTwo) =>
   // Convert values into array of doubles
   val v1 = valueOne.toString.stripPrefix("[").stripSuffix("]").split(",").map(_.trim.toDouble)
