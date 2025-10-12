@@ -1,0 +1,4 @@
+Total executors: 1
+Epoch 0 time: 42095 ms
+Epoch 1 time: 14651 ms
+Epoch 2 time: 14395 ms
