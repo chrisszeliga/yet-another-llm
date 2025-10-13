@@ -1,2 +1,3 @@
 1-hadoop-data-preprocessing/AWSmapreduce.jar
 2-spark-model-training/AWSLLMTraining.jar
+3-aws-inference-deployment/src/main/resources/bedrock.conf
