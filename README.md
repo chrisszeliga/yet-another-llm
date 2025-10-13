@@ -13,12 +13,12 @@ YALLM is structured into three main components:
 
 ## Repository Structure
 ```
-yallm/
-├── hadoop-data-preprocessing/
+Yet-Another-LLM/
+├── 1-hadoop-data-preprocessing/
 │  └── README.md
-├── spark-model-training/
+├── 2-spark-model-training/
 │  └── README.md
-├── aws-model-serving/
+├── 3-aws-model-serving/
 │  └── README.md
 └── README.md
 ```
