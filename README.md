@@ -27,9 +27,9 @@ Each directory contains a dedicated README explaining that component in detail.
 ---
 
 ## Quick Links
-- [🧱 Hadoop Data Preprocessing](./hadoop-data-preprocessing/README.md)  
-- [⚡ Spark Model Training](./spark-model-training/README.md)  
-- [☁️ AWS Model Serving](./aws-model-serving/README.md)
+- [🧱 Hadoop Data Preprocessing](./1-hadoop-data-preprocessing/README.md)  
+- [⚡ Spark Model Training](./2-spark-model-training/README.md)  
+- [☁️ AWS Model Serving](./3-aws-model-serving/README.md)
 
 ---
 
